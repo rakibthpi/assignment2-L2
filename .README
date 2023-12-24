@@ -1,0 +1,3 @@
+production run process => yarn start
+Develop run process => yarn dev
+TS file to js file converter => yarn build
